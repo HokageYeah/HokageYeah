@@ -19,6 +19,7 @@ Here are some ideas to get you started:
  >做人如果没有梦想，那根咸鱼有何分别！
  
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=HokageYeah&show_icons=true&theme=dark&count_private=true)
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HokageYeah&hide_border=true&layout=compact&langs_count=6" />
 
 ## HokegeYeah的语言数据
 
