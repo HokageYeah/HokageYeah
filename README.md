@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ## HokegeYeah的GitHub提交次数
- >做人如果没有梦想，那根咸鱼有何分别！
+ >做人如果没有梦想，那根咸鱼有何分别！ee
  
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=HokageYeah&show_icons=true&theme=dark&count_private=true)
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HokageYeah&hide_border=true&layout=compact&langs_count=6" />
+![GithubStats]<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HokageYeah&hide_border=true&layout=compact&langs_count=6" />
 
 ## HokegeYeah的语言数据
 
