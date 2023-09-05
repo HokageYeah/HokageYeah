@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ## HokegeYeah的GitHub提交次数
- >做人如果没有梦想，那根咸鱼有何分别！
+ >做人如果没有梦想，那根咸鱼有何分别！！
  
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=HokageYeah&show_icons=true&theme=dark&count_private=true)
 ![GithubStats]<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HokageYeah&hide_border=true&layout=compact&langs_count=6" />
